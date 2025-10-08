@@ -81,7 +81,7 @@ export default function Reviews() {
             <div className="mt-20 flex justify-between w-9/10">
               <div className="border border-[#DAE4FF] bg-white px-6 py-3 rounded-xl text-[#4A5568] font-medium w-15/100"> General Hospital</div>
               <div className="border border-[#DAE4FF] bg-white px-6 py-3 rounded-xl text-[#4A5568] font-medium w-15/100"> General Hospital</div>
-              <div className="border border-[#DAE4FF] bg-white px-6 py-3 rounded-xl text-[#4A5568] font-medium w-1/5"> General Hospital</div>
+              
               
             </div>
           </div>
